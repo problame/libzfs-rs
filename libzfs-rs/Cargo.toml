@@ -1,0 +1,6 @@
+[package]
+name = "libzfs-rs"
+version = "0.1.0"
+
+[dependencies]
+libzfs-bindings = {path = "../libzfs-bindings"}
